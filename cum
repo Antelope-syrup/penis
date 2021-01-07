@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+   <style>
+     body {
+    background-image: url("obamashpere.gif");
+    background-size: 20%, 20%;
+    background-color: #bf9995;
+     }
+   </style>
+   <script>
+     x = 10
+     function alert() {
+       while(x=10){
+       alert("bye");
+       }
+     }
+    </script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  <button type="button" onclick = "alert()">this is a button</button>
+    <script src="script.js"></script>
+  </body>
+</html>
